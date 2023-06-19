@@ -1,16 +1,7 @@
 # livetest7
 
-A new Flutter project.
+#Output
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230619_232032](https://github.com/Graphictool/counterapp/assets/28779320/e639d415-f9de-4a97-9ca2-95b12f5921d3)
+![Screenshot_20230619_232051](https://github.com/Graphictool/counterapp/assets/28779320/4ccf032c-92da-43de-9150-ea5ba1febd37)
+![Screenshot_20230619_230905](https://github.com/Graphictool/counterapp/assets/28779320/e781a757-7565-4ad5-abf0-277ed853c77c)
